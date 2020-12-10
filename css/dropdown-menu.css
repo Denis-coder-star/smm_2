@@ -1,0 +1,27 @@
+.account-active:after {
+	transform: rotate(180deg);
+}
+
+.personal-dropdown-active {
+	display: block;
+}
+
+.country-active {
+	display: block;
+}
+
+.img-pass {
+	display: none;
+}
+
+.img-active {
+	display: block !important;
+}
+
+.color-normal-active {
+	display: none !important;
+}
+
+.color-fff-active {
+	display: block !important;
+}
